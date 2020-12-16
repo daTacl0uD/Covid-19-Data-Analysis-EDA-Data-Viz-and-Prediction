@@ -1,0 +1,3 @@
+# Covid-19-Data-Analysis-EDA-Data-Viz-and-Prediction
+In this notebook I have done a detailed analysis on the worldwide Covid-19 outbreak, the confirmed cases, death cases, recovry rate and mortality rate to observe how it has impacted one of the top countries worldwide. Here I am going to look at some interesting information and graphs for the same, in a worldwide scenario as well as in an even more granular way that is in a country specific manner. Also I have done predictions of Confirmed cases as well as death cases using Polynomial Regression, Also built a dashboard, the link of which is attached at the beginning of the notebook. 
+P.S.: I have done this analysis a few months ago, hence the data under consideration is till the month of September.
